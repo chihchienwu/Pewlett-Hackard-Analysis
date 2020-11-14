@@ -27,9 +27,11 @@ List of Eligible Employees
 
 ## Summary and Further Questions
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Based on the compiled the list, there are 90,000 employees 
+Based on the compiled the list, there are 90,000 employees that are retiring soon. This accounts for 38% of total current workforce, which is big part of the resouces that will be goone soon.
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based on the last query, the company only has roughly 1900 employees that are eligible for mentorship program, which is only a fraction of the retiring workforce. The company should look to hire externally very soon, or expand thier mentorship eligibility requirement to start training more junior staff members.
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
